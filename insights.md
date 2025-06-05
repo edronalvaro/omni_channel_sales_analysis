@@ -1,4 +1,4 @@
-## Store Conversion Rates (View Statement)
+## Store Conversion Rates
 
 The conversion rates across all stores are generally strong, ranging from **87% to 97%**, indicating that most orders are successfully converted into transactions. This suggests that customers who initiate purchases are highly likely to complete them, reflecting effective sales processes and a positive customer experience.
 
@@ -11,10 +11,13 @@ While the gap between the highest and lowest conversion rates is relatively smal
 
 ## Sales Performance by Product Category
 
-**Apparel department leads in sales, generating $15,745.92, which indicates strong customer interest and demand.**
+The Apparel department leads in sales, generating **$15,745.92**, which indicates strong customer interest and demand.
 
-The sports category falls behind at $6,176.49, suggesting that the stores currently focus more on clothing than on sporting goods.
+The Sports category falls behind at **$6,176.49**, suggesting that the stores currently focus more on clothing than on sporting goods.
 
-Since the apparel category is performing well, the company may want to consider adjusting inventory levels to meet demand and investing more in marketing to increase its visibility even further.
+While the Apparel category is performing well, the company may want to consider adjusting inventory levels to meet demand and investing more in marketing to increase its visibility even further.
 
-For the sports category, lower sales are expected as it is not the store’s primary focus. However, if the company wants to boost sales in this department, it should consider expanding inventory selection and increasing marketing efforts to attract more customers.
+### Follow-up Actions:
+- Adjust inventory levels in the Apparel category to meet customer demand.
+- Increase marketing efforts to further boost Apparel sales and visibility.
+- Investigate opportunities to expand inventory selection and marketing for the Sports category to improve sales performance.
