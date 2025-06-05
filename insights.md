@@ -8,3 +8,13 @@ While the gap between the highest and lowest conversion rates is relatively smal
 - Analyze operational strategies at Store 4.
 - Identify possible bottlenecks at lower-performing locations (e.g., stockouts, long wait times, subpar customer service).
 - Use these insights to **standardize and optimize sales operations** across all stores to maintain or raise conversion performance region-wide.
+
+## Sales Performance by Product Category
+
+**Apparel department leads in sales, generating $15,745.92, which indicates strong customer interest and demand.**
+
+The sports category falls behind at $6,176.49, suggesting that the stores currently focus more on clothing than on sporting goods.
+
+Since the apparel category is performing well, the company may want to consider adjusting inventory levels to meet demand and investing more in marketing to increase its visibility even further.
+
+For the sports category, lower sales are expected as it is not the store’s primary focus. However, if the company wants to boost sales in this department, it should consider expanding inventory selection and increasing marketing efforts to attract more customers.
